@@ -2,7 +2,7 @@
 ## Task - 02: Tribute Page
 
 #### Code Editor used: Visual Studio Code
-#### Tech Stack Used: HTML, CSS, JavaScript
+#### Tech Stack Used: HTML, CSS
 
 ## Screenshort:
 ### 1. Home
@@ -17,5 +17,5 @@
 ### 4. Future Timeline
 ![2 (4)](https://user-images.githubusercontent.com/90950477/208226998-683e4c6a-347e-41b1-9f70-a4e5c3169ee4.png)
 
-### 5. Videos
+### 5. Videos and Social account
 ![2 (5)](https://user-images.githubusercontent.com/90950477/208227007-9986c65b-b872-47f2-acff-8e85f4dd653a.png)
